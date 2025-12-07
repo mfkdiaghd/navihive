@@ -16,6 +16,6 @@
   "d1_databases": [{
     "binding": "DB",
     "database_name": "navigation-db",
-    "database_id": "015aa3c2-2044-4c7c-a262-eba61f5327de"  // 替换为实际 ID
+    "database_id": "8baf916c3033c81655c842dc0f29324d"  // 替换为实际 ID
   }]
 }
